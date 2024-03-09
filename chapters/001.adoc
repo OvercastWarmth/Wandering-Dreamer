@@ -30,4 +30,4 @@ They're... alone. +
 
 ---
 
-xref:../readme#[Home] ~ xref:../chapters#[Chapters] ~ Next
+xref:../index#[Home] ~ xref:../chapters#[Chapters] ~ Next
