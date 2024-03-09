@@ -1,0 +1,20 @@
+= The Dreamer
+:author: Overcast Warmth System
+:reproducible:
+
+_When one is fragile, yet still longing for adventure, one can't help but wander within._
+
+_The Dreamer_ is a silly little Rain World fanfiction that we've decided to write in our spare time. We're not sure how far we'll end up going with it, but if you wanna follow along we wouldn't mind :3
+
+You can jump right into the dream xref:chapters/001#[here], or xref:chapters#[view the chapter list].
+
+---
+
+== Licensing
+
+The content of the story is licensed under http://creativecommons.org/licenses/by-nc/4.0/[CC BY-NC 4.0]. In essence, as long as you're not making money and link back here as the source, we're okay with it.
+Otherwise, the code such as css stylesheets and such is licensed under the link:LICENSE[MIT License].
+
+// Secret source code comment :3 
+// If there's anything wrong with the way that we've done the licensing here, please tell us. We're kinda dumb when it comes to legal stuffs
+// To be clear, the text and any assets we might draw are CC BY-NC 4.0, the css code and other things that *we* make are MIT
